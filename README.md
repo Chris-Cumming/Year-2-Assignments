@@ -1,2 +1,2 @@
 # Year-2-Assignments
-Holds all code I wrote for PX281, Computational Physics module, during my 2nd year at Warwick University
+Holds all the code I wrote for PX281, a Computational Physics module, during my 2nd year at Warwick University. Module was split into 6 assignments with the final assignment being a project, with a choice of projects to choose from. Each assignment was targeted at certain parts of computatiunal physics, such as: basic data analyis, integration and differentiation in physics, modelling physics with random numbers, ordinary differential equations in physics. The main modules used were NumPy, SciPy and matplotlib.
